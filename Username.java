@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class username 
+class Username 
 {
     public static void main(String args[])
     {
